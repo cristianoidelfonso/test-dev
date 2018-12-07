@@ -1,13 +1,14 @@
 # Petiko - Processo seletivo de estágio
 
 Petiko é uma Startup com sede em São Carlos que atua no segmento Pet com milhares de clientes espalhados em todo o Brasil. Nosso objetivo é ajudar as pessoas a cuidarem melhor de seus animais de estimação e entregar felicidade. Para isso, contamos com diferentes canais e serviços:
-* Red
-+ Green
-- Blue
 
-    * **BLOG.Petiko:** Portal de conteúdo que movimenta centenas de milhares de petlovers todos os meses
-    * **BOX.Petiko:** Maior clube de assinaturas Pet da américa latina. Entregamos mensalmente uma caixinhas com mimos e novidades para nossos assinantes
-    * **SHOP.Petiko:** Plataforma de compra exclusivo para assinantes BOX.Petiko
+    * Red
+    + Green
+    - Blue
+
+* **BLOG.Petiko:** Portal de conteúdo que movimenta centenas de milhares de petlovers todos os meses
+* **BOX.Petiko:** Maior clube de assinaturas Pet da américa latina. Entregamos mensalmente uma caixinhas com mimos e novidades para nossos assinantes
+* **SHOP.Petiko:** Plataforma de compra exclusivo para assinantes BOX.Petiko
 
 ## Sobre a vaga!
 
