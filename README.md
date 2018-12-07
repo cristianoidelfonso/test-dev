@@ -26,11 +26,12 @@ Você irá trabalhar com:
 * **Bolsa R$ 1500,00**
 
 # O Processo seletivo - ETAPA 1
-Para participar do processo seletivo, convidamos vocês a resolverem a primeira etapa do processo seletivo.
+Para participar do processo seletivo, convidamos você a resolver a primeira etapa do processo seletivo.
 
 **Dê um fork neste repositório e resolva os testes**.
-Assim que **terminar**, nos envie o link para o github **do projeto com as respostas** para o e-mail dev@petiko.com.br.
+Assim que **terminar**, nos envie o link para o bitbucket **do projeto com as respostas** para o e-mail dev@petiko.com.br.
 
-Nesta etapa o objetivo é analisar um pouco de sua familiaridade com algorítimos e progrmação.
+Nesta etapa o objetivo é analisar um pouco de sua familiaridade com algorítimos e programação.
+Cada teste possui um peso. Você não é obrigado a entregar todos os testes resolvidos, porém, ele será utilizado como critério para a eleição a próxima fase.
 
 Boa sorte!!!
