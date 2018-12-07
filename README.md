@@ -2,9 +2,6 @@
 
 Petiko é uma Startup com sede em São Carlos que atua no segmento Pet com milhares de clientes espalhados em todo o Brasil. Nosso objetivo é ajudar as pessoas a cuidarem melhor de seus animais de estimação e entregar felicidade. Para isso, contamos com diferentes canais e serviços:
 
-    * Red
-    + Green
-    - Blue
 
 * **BLOG.Petiko:** Portal de conteúdo que movimenta centenas de milhares de petlovers todos os meses
 * **BOX.Petiko:** Maior clube de assinaturas Pet da américa latina. Entregamos mensalmente uma caixinhas com mimos e novidades para nossos assinantes
@@ -14,17 +11,18 @@ Petiko é uma Startup com sede em São Carlos que atua no segmento Pet com milha
 
 Queremos um dev talentoso, motivado e que esteja disposto a aprender diariamente. Que seja multidiciplinar, e encare o desafio de transformar-se em um **Full Stack**.
 Você irá trabalhar com:
-	* PHP, Laravel
-	* MySQL e bancos não relacionais
-	* Integrações de plataformas via REST API's
-	* Desenvolvimento de ferramentas de gestão e análises de processos
-	* Métodos de pagamento online e logística
-	* Usabilidade, testes e desenvolvimento de novas plataformas de vendas
+
+* PHP, Laravel
+* MySQL e bancos não relacionais
+* Integrações de plataformas via REST API's
+* Desenvolvimento de ferramentas de gestão e análises de processos
+* Métodos de pagamento online e logística
+* Usabilidade, testes e desenvolvimento de novas plataformas de vendas
 
 **A vaga:**
-	- Estágio 30h
-	- Presencial, Sâo Carlos SP
-	- Bolsa R$ 1500,00
+* Estágio 30h
+* Presencial, Sâo Carlos SP
+* Bolsa R$ 1500,00
 
 # O Processo seletivo - ETAPA 1
 Para participar do processo seletivo, convidamos vocês a resolverem a primeira etapa do processo seletivo.
