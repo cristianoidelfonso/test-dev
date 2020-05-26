@@ -1,4 +1,4 @@
-# Petiko - Processo seletivo de estágio
+# Petiko - Processo seletivo.
 
 Petiko é uma Startup com sede em São Carlos que atua no segmento Pet com milhares de clientes espalhados em todo o Brasil. Nosso objetivo é ajudar as pessoas a cuidarem melhor de seus animais de estimação e entregar felicidade. Para isso, contamos com diferentes canais e serviços:
 
@@ -21,9 +21,10 @@ Você irá trabalhar com:
 
 **A vaga:**
 
-* **Estágio 30h**
+* **Desenvolvedor Junior, Backend PHP.**
 * **Presencial, Sâo Carlos SP**
-* **Bolsa R$ 1500,00**
+* **Home Office**
+* **Formato de contratação CLT.**
 
 # O Processo seletivo - ETAPA 1
 Para participar do processo seletivo, convidamos você a resolver a primeira etapa do processo seletivo.
