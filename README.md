@@ -21,10 +21,10 @@ Você irá trabalhar com:
 
 **A vaga:**
 
-* **Desenvolvedor Junior, Backend PHP.**
-* **Presencial, Sâo Carlos SP**
+* **Desenvolvedor Junior, Backend PHP ou estágio.**
+* **Presencial ou Home Office, Sâo Carlos SP**
 * **Home Office**
-* **Formato de contratação CLT.**
+* **Formato de contratação CLT ou estágio.**
 
 # O Processo seletivo - ETAPA 1
 Para participar do processo seletivo, convidamos você a resolver a primeira etapa do processo seletivo.
