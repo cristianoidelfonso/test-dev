@@ -29,7 +29,7 @@ No time de tecnologia da Petiko você irá nos ajudar no lançamento, construç�
 * Familiaridade com PHP e Javascript
 * Bons conhecimentos em API REST
 * Boas práticas em versionamento (GIT)
-* Estar vinculado a um curso de nível superior - PARA VAGAS DE ESTÁGIO
+
 
 
 **Formatos de contratação:**
@@ -46,17 +46,16 @@ Para participar do processo seletivo, convidamos você a resolver a primeira eta
 
 **1- Dê um fork neste repositório**
 
-**2- Resolva os testes - Você não precisa resolver todos eles**
+**2- Resolva os testes - Você NÃO precisa resolver todos eles**
 
 **3- Quando terminar, nos envie o link do seu repositório com as respostas**
 
-Envie para o e-mail dev@petiko.com.br o link para o bitbucket **do projeto com as respostas**.
 
 
 Nesta etapa o objetivo é analisar um pouco de sua familiaridade com algorítimos e programação.
 
 Cada teste possui um peso.
 
-Você não é obrigado a entregar todos os testes resolvidos, porém, ele será utilizado como critério para a eleição a próxima fase.
+Você NÃO é obrigado a entregar todos os testes resolvidos, porém, ele será utilizado como critério para a eleição a próxima fase.
 
 Boa sorte!!!
