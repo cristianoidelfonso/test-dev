@@ -27,34 +27,36 @@
 * 
 * Portanto, o código acima deve exibir "Chris".
 * 
-* 
 **/
 
 class LeagueTable
 {
 	public function __construct($players)
-    {
+  {
 		$this->standings = array();
 		foreach($players as $index => $p)
-        {
+    {
 			$this->standings[$p] = array
-            (
-                'index' => $index,
-                'games_played' => 0, 
-                'score' => 0
-            );
-        }
+      (
+        'index' => $index,
+        'games_played' => 0, 
+        'score' => 0
+      );
+    }
 	}
 		
 	public function recordResult($player, $score)
-    {
+  {
 		$this->standings[$player]['games_played']++;
 		$this->standings[$player]['score'] += $score;
 	}
 	
 	public function playerRank($rank)
-    {
-        return NULL;
+  {
+    $scores = [];
+    foreach($this->standings as $index => $player){
+
+    }
 	}
 }
       

@@ -14,15 +14,15 @@
 
 class Palindrome
 {
-    public static function isPalindrome($word)
-    {
-        $wordReverse = strrev($word);
-        if(!strcasecmp($wordReverse, $word)) {
-            return 1;
-        }else{
-            return 0;
-        }
+  public static function isPalindrome($word)
+  {
+    $wordReverse = strrev($word);
+    if(!strcasecmp($wordReverse, $word)) {
+      return 1;
+    }else{
+      return 0;
     }
+  }
 }
 
 echo Palindrome::isPalindrome('Deleveled');
