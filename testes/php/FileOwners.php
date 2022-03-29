@@ -16,7 +16,16 @@ class FileOwners
 {
     public static function groupByOwners($files)
     {
-        return NULL;
+        $docs = [];
+        foreach($files as $index => $owner){
+            if(!array_key_exists($owner, $docs)) {
+                $docs[$owner] = [$index];    
+            }
+            else{   
+                array_push($docs[$owner], $index); 
+            }
+        }
+        return $docs;
     }
 }
 

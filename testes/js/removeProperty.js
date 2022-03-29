@@ -5,28 +5,14 @@
 // Se o objeto obj tiver uma propriedade prop, a função removerá a propriedade do objeto e retornará true;
 // em todos os outros casos, retorna falso.
 
-
-
-
 function removeProperty(obj, prop) {
-  
-  if (obj.hasOwnProperty(prop)){
+
+  if(obj.hasOwnProperty(prop)) {
     delete obj.prop;
     return true;
-  }else {
-    return false;
   }
+  else{
+    return false;
+  } 
   
 }
-
-const obj = {
-  nome: "Matheus",
-  idade: 29
-}
-
-console.log(obj); 
-
-removeProperty(obj, 'idade');
-
-console.log(obj); 
-

@@ -19,7 +19,12 @@ class Palindrome
 {
     public static function isPalindrome($word)
     {
-        return NULL;
+        $wordReverse = strrev($word);
+        if(!strcasecmp($wordReverse, $word)) {
+            return 1;
+        }else{
+            return 0;
+        }
     }
 }
 
