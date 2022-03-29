@@ -8,5 +8,17 @@ TABLE cats
   id INTEGER NOT NULL PRIMARY KEY,
   name VARCHAR(50) NOT NULL
 
-
 Escreva uma consulta que selecione todos os nomes de animais distintos.
+
+
+Minha resposta:
+
+SELECT 
+  cats.name AS Cats, 
+  dogs.name AS Dogs 
+FROM 
+  cats 
+FULL JOIN 
+  dogs 
+ON 
+  cats.id = dogs.id;

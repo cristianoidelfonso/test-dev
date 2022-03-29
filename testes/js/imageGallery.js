@@ -29,6 +29,7 @@
 
 function setup () {
   // Write your code here.
+  console.log('Entrou aqui')
 }
 
 // Example case. 
@@ -45,4 +46,5 @@ document.body.innerHTML = `
 setup();
 
 $(".remove").get(0).click();
+
 console.log(document.body.innerHTML);
